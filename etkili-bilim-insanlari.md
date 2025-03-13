@@ -2,7 +2,7 @@
 Bartın Üniversitesinden (BARÜ) 2 bilim insanı, Stanford Üniversitesi tarafından her yıl dünyanın en etkili bilim insanlarının sıralandığı listeye girmeyi başardı.  
 Yayımlanan listede;
 - Mühendislik Mimarlık ve Tasarım Fakültesi’nden
-  - Prof. Dr. Prof. Dr. Osman Gençel
+  - Prof. Dr. Osman Gençel
 - Fen Fakültesi’nden
   - Dr. Öğr. Üyesi Parham Taslimi
 
